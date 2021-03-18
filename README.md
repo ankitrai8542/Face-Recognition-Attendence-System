@@ -22,3 +22,4 @@ HOW TO USE.
 7.An excel file will be created, marked with the attendance for the faces it recognised.
 8.Keep all the images and the python script in the same folder as well as run the python script for the same folder.
 **Future updates.. Adding google spreadsheet for easy multiple access.
+**updated
